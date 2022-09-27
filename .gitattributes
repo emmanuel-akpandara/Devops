@@ -1,2 +1,2 @@
-target/* linguist-documentation=false
-target/* linguist-vendored
+target/classes/fact/it/supermarket/* linguist-documentation=false
+target/classes/fact/it/supermarket/* linguist-vendored
